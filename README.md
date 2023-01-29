@@ -13,7 +13,7 @@ https://deweywatkins77.github.io/Horiseon-Refactor/
 
 will take you to the webpage shown below.
 
-![Horiseon Website Screenshot](assets/images/screenshot.png)
+![Horiseon Website Screenshot](assets/images/readme-screenshot.png)
 
 ## License
 
